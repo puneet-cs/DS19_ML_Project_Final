@@ -1,0 +1,10 @@
+joblib
+pandas
+streamlit
+numpy
+scikit-learn
+xgboost
+
+
+# conda init powershell
+# conda activate base
